@@ -1,0 +1,16 @@
+{
+  "name": "human-readable-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "length": "^0.0.1",
+    "parseint": "^2.0.0"
+  }
+}
